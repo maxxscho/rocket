@@ -1,5 +1,7 @@
 @import 'tailwindcss/base';
 
+@import 'base/_alpinejs.css';
+
 @import 'tailwindcss/components';
 
 @import 'tailwindcss/utilities';
