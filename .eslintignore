@@ -1,3 +1,4 @@
 public/assets/*
 tailwind.js
 tailwind-config.js
+webpack.mix.js
