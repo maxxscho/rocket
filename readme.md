@@ -10,7 +10,7 @@ Rocket is a simple HTML Boilerplate with the following things preinstalled:
 
 ## Get started
 1. Since this Repo is a [Github Template](https://github.blog/2019-06-06-generate-new-repositories-with-repository-templates/) just click the "Use this template"-Button or click on [this link](https://github.com/maxxscho/rocket/generate). This will create a new Repo for you, based on this template.
-2. Clone you newly created Repo
+2. Clone your newly created Repo
 3. run `npm install`
 4. Compile your assets with `npm run dev` or with hot-reloading `npm run watch`. This will create a new folder `public` with your CSS and JS files
 
