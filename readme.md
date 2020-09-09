@@ -13,7 +13,3 @@ Rocket is a simple HTML Boilerplate with the following things preinstalled:
 2. Clone your newly created Repo
 3. run `npm install`
 4. Compile your assets with `npm run dev` or with hot-reloading `npm run watch`. This will create a new folder `public` with your CSS and JS files
-
-## Configuration
-#### Assets target folder
-In `webpack.mix.js` you can configure the targets for your CSS and JS. Feel free to configure everything.
